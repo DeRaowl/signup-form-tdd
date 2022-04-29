@@ -1,0 +1,16 @@
+.sign-in {
+  width: 100%;
+  padding: 0.5rem 1rem;
+  border: none;
+  margin-top: 1rem;
+  font-size: 25px;
+  background-color: #cfbaf0;
+  color: white;
+  text-transform: uppercase;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+.sign-in:hover {
+  background-color: #a67ceb;
+}

@@ -1,0 +1,24 @@
+.signup__label p {
+  padding: 0;
+  margin: 0;
+  text-align: left;
+  font-size: 18px;
+  margin: 10px;
+  color: grey;
+}
+
+.signup__input {
+  padding: 0;
+  margin: 0;
+  width: 90%;
+  border: none;
+  padding: 0.5rem 1rem;
+  font-size: 1.2rem;
+  border-radius: 5px;
+  border: 1px solid rgba(194, 191, 191, 0.616);
+}
+
+.signup__input:focus {
+  outline: none;
+  border: 1px solid #cfbaf0;
+}
